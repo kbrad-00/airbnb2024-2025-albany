@@ -1,164 +1,165 @@
 # Albany, NY Airbnb Market Analysis (2022–2025)
 
-## Project Overview
+## The Question
 
-This project analyzes the Airbnb market in **Albany, New York** using Power BI to explore pricing trends, neighborhood demand, host performance, and seasonal booking patterns.
+Imagine you are planning to become an Airbnb host in **Albany, New York**.
 
-The goal of this analysis is to understand how the local Airbnb market behaves and provide insights that could help a **current or potential Airbnb host make better pricing and location decisions**.
+You want to know:
 
-Using interactive visuals, the dashboard highlights which neighborhoods generate the most guest activity, how pricing varies across the city, and when demand tends to increase throughout the year.
+- Where should you list your property?
+- Which neighborhoods attract the most guests?
+- How much should you charge?
+- When is demand the highest throughout the year?
+
+This project explores Albany’s Airbnb market using data to uncover **where the opportunity really lies**.
 
 ---
 
-## 📊 Dashboard Overview
+## The Market at a Glance
 
-The dashboard provides a high-level overview of Albany’s Airbnb market including:
+Before diving deeper, the dataset reveals the overall size of Albany’s Airbnb marketplace.
 
-- Total listings available
-- Total guest reviews across the platform
-- Number of active hosts
-- Average listing price
-- Average minimum stay requirements
-- Average reviews per listing
+- **478 active listings**
+- **28,000+ guest reviews**
+- **190 hosts competing in the market**
+- **Average nightly price: $113**
+- **Average minimum stay: 6.8 nights**
+
+At first glance, Albany may seem like a modest Airbnb market — but the data quickly reveals **clear patterns of competition, demand, and opportunity**.
+
+---
+
+## 📊 Full Market Dashboard
+
+The dashboard below brings together pricing, host activity, neighborhood demand, and seasonal patterns into one interactive view.
 
 ![Albany Airbnb Dashboard](main1.png)
 
-Key metrics from the dataset include:
+This dashboard answers several key questions:
 
-- **478 total listings**
-- **28K+ guest reviews**
-- **190 hosts operating listings**
-- **Average nightly price of $113**
-- **Average minimum stay of ~6.8 nights**
+- Who are the **top hosts charging premium prices**?
+- Which neighborhoods attract the **most guest activity**?
+- Where is **competition highest**?
+- How does **property type affect pricing**?
+- When does **seasonal demand rise and fall**?
 
-These metrics provide a snapshot of the overall scale and activity of the Airbnb marketplace in Albany.
-
----
-
-## Key Business Questions
-
-This analysis focuses on answering several important questions about Albany’s Airbnb market:
-
-- Which **neighborhoods attract the most guests**?
-- Which **hosts charge the highest average prices**?
-- Where is **competition highest in terms of listings**?
-- How does **property type influence pricing**?
-- Are there **seasonal patterns in Airbnb demand**?
-
-Understanding these questions helps hosts make decisions about **where to operate, how to price their listings, and when demand is highest**.
+But one neighborhood quickly stood out from the rest.
 
 ---
 
-## Highest Guest Activity: Sixth Ward
+## The Discovery: Sixth Ward
 
-One of the most notable insights from the analysis is that the **Sixth Ward stands out as the neighborhood with the highest guest activity**.
+When exploring the data, one area consistently appeared at the top.
 
-When filtering the dashboard to focus on the Sixth Ward, the data reveals:
+**Sixth Ward.**
 
-- **108 listings** located in this neighborhood
-- **8,264 total reviews**, significantly higher than other areas
-- **52 hosts operating listings**
-- An **average nightly price of approximately $102**
-
-This suggests that the Sixth Ward has particularly strong traveler demand, which may be influenced by factors such as:
-
-- Location convenience
-- Local attractions
-- Competitive pricing
-- Availability of listings
-
-For hosts or investors considering entering the Albany Airbnb market, the Sixth Ward appears to be one of the **most active and competitive areas**.
+Filtering the dashboard reveals that this neighborhood dominates guest activity across the city.
 
 ![Sixth Ward Analysis](albany1.png)
 
+The numbers tell the story:
+
+- **108 listings located in Sixth Ward**
+- **8,264 guest reviews**
+- **52 hosts operating in the area**
+- **Average nightly price of $102**
+
+In other words:
+
+While other neighborhoods may charge higher prices, **Sixth Ward appears to be where guests are actually staying**.
+
+This suggests that the neighborhood may benefit from:
+
+- Better location or accessibility
+- Higher traveler demand
+- More competitive listings
+- Popular nearby attractions
+
+For a potential host, this insight raises an important strategic question:
+
+> Is it better to list in the **most expensive area**, or the **area where guests are actually booking?**
+
 ---
 
-## Pricing Insights
+## Pricing Strategy
 
-The dashboard also highlights differences in pricing across hosts and property types.
+Not all listings are priced the same.
 
-### Top Hosts by Average Price
+The data shows a clear distinction between **property types**:
 
-Certain hosts consistently charge higher prices, suggesting:
+- **Entire homes or apartments** command significantly higher prices.
+- **Private rooms** offer a lower-cost option for travelers.
 
-- Premium property offerings
-- Unique listing experiences
-- Strategic pricing strategies
+Hosts offering entire homes appear to capture the **premium segment of the market**, where travelers prioritize privacy and full accommodations.
 
-Understanding these hosts can help identify **pricing benchmarks within the market**.
+Meanwhile, private room listings compete in a **more budget-oriented market**.
 
----
-
-### Price by Room Type
-
-Listings categorized as **entire home or apartment** command significantly higher average prices compared to **private rooms**.
-
-This reflects the typical Airbnb market pattern where travelers pay a premium for:
-
-- Privacy
-- Full property access
-- Larger accommodations
+Understanding this pricing structure helps hosts decide **which type of listing to operate**.
 
 ---
 
 ## Supply vs Demand
 
-The analysis also compares **where listings exist versus where demand is strongest**.
+One of the most important insights from this analysis is the relationship between:
 
-For example:
+- **Where listings exist**
+- **Where guests actually stay**
 
-- **Sixth Ward** leads in guest activity and listing volume.
-- Some neighborhoods show **higher prices but fewer reviews**, suggesting different market dynamics.
+Some neighborhoods have many listings but relatively few reviews.
 
-This difference highlights the importance of balancing:
+Others, like **Sixth Ward**, generate significantly more guest activity.
 
-- **Price strategy**
-- **Guest demand**
-- **Listing competition**
+This difference highlights a key dynamic in marketplace platforms like Airbnb:
+
+> Supply does not always match demand.
+
+Hosts who understand this imbalance can position themselves in neighborhoods where **guest demand is strongest**.
 
 ---
 
-## Seasonal Airbnb Demand
+## Seasonal Demand
 
-The dashboard also reveals **clear seasonal trends in Airbnb activity**.
+Airbnb demand in Albany also follows a clear seasonal pattern.
 
-Demand gradually rises throughout the year, reaching its peak during **late summer and fall months**. Activity then drops significantly in **December and January**, which may be explained by:
+Activity gradually increases throughout the year, peaking during **late summer and early fall**.
 
-- Travelers spending holidays with family
-- Reduced winter tourism
-- Seasonal travel patterns
+However, demand drops sharply in **December and January**.
 
-Understanding these patterns can help hosts plan:
+This likely reflects common travel behavior:
+
+- People spend the winter holidays with family
+- Cold weather reduces tourism
+- Travel activity slows after the holiday season
+
+For hosts, this insight can help guide:
 
 - Pricing adjustments
-- Availability strategies
-- Promotional periods
+- Promotional discounts
+- Availability planning
+
+---
+
+## What This Analysis Shows
+
+By combining pricing data, review activity, and seasonal trends, this project reveals several important insights about Albany’s Airbnb market:
+
+- **Sixth Ward generates the strongest guest activity**
+- **Entire homes command higher nightly prices**
+- **Demand peaks during late summer and fall**
+- **Competition varies significantly across neighborhoods**
+
+These insights can help hosts make better decisions about **where to operate, how to price listings, and when demand is strongest**.
 
 ---
 
 ## Tools Used
 
-This project demonstrates the use of several data analytics tools and techniques:
+This project demonstrates practical data analytics skills including:
 
-- **Power BI** for dashboard development and visualization
-- **Power Query** for data cleaning and transformation
-- **Data modeling** to structure relationships between listings and reviews
-- **Interactive filtering** to allow exploration by neighborhood
-- **Data storytelling** to present insights in a clear and structured way
-
----
-
-## Project Outcome
-
-This dashboard provides a clear picture of the Albany Airbnb market and demonstrates how data can be used to support **business decisions in the short-term rental industry**.
-
-By combining pricing analysis, demand indicators, and seasonal trends, the dashboard helps identify:
-
-- High-demand neighborhoods
-- Competitive pricing strategies
-- Areas with strong guest engagement
-- Seasonal demand patterns
-
-These insights can help hosts better position their listings and maximize their performance in the marketplace.
+- **Power BI** for interactive dashboard development
+- **Power Query** for data transformation
+- **Data modeling** to structure listing and review data
+- **Exploratory data analysis**
+- **Data storytelling through visualization**
 
 ---
