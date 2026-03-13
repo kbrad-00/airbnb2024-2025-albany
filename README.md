@@ -21,7 +21,7 @@ The dashboard provides a high-level overview of Albany’s Airbnb market includi
 - Average minimum stay requirements
 - Average reviews per listing
 
-![Albany Airbnb Dashboard](main-albany.png)
+![Albany Airbnb Dashboard](main1.png)
 
 Key metrics from the dataset include:
 
@@ -69,7 +69,7 @@ This suggests that the Sixth Ward has particularly strong traveler demand, which
 
 For hosts or investors considering entering the Albany Airbnb market, the Sixth Ward appears to be one of the **most active and competitive areas**.
 
-![Sixth Ward Analysis](neighbourhood-sixthward.png)
+![Sixth Ward Analysis](albany1.png)
 
 ---
 
@@ -162,7 +162,3 @@ By combining pricing analysis, demand indicators, and seasonal trends, the dashb
 These insights can help hosts better position their listings and maximize their performance in the marketplace.
 
 ---
-
-## Author
-
-Created as part of a **data analytics portfolio project** focused on applying Power BI to real-world market analysis.
